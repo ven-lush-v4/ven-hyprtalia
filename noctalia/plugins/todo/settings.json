@@ -1,0 +1,34 @@
+{
+  "todos": [
+    {
+      "id": 1776632381404,
+      "text": "fix git for hypr + noctalia configs",
+      "completed": false,
+      "createdAt": "2026-04-19T20:59:41.404Z",
+      "pageId": 0,
+      "priority": "medium",
+      "details": ""
+    }
+  ],
+  "pages": [
+    {
+      "id": 0,
+      "name": "General"
+    }
+  ],
+  "current_page_id": 0,
+  "count": 1,
+  "completedCount": 0,
+  "showCompleted": true,
+  "showBackground": true,
+  "isExpanded": true,
+  "useCustomColors": false,
+  "priorityColors": {
+    "high": "#fd4663",
+    "medium": "#8c99eb",
+    "low": "#afb0b6"
+  },
+  "exportPath": "~/Documents",
+  "exportFormat": "markdown",
+  "exportEmptySections": false
+}
