@@ -1,9 +1,9 @@
 {
-  "isSystemActive": true,
+  "isSystemActive": false,
   "borderSize": 2,
   "overlayPath": "~/.cache/noctalia/HVE/overlay.conf",
   "autoApply": true,
-  "activeAnimFile": "08_cristal.conf",
-  "activeBorderFile": "12_neon_cyberpunk.conf",
+  "activeAnimFile": "",
+  "activeBorderFile": "",
   "activeShaderFile": ""
 }

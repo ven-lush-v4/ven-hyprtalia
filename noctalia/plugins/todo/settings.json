@@ -1,9 +1,18 @@
 {
   "todos": [
     {
+      "id": 1777929313419,
+      "text": "remod dsi",
+      "completed": false,
+      "createdAt": "2026-05-04T21:15:13.419Z",
+      "pageId": 0,
+      "priority": "low",
+      "details": ""
+    },
+    {
       "id": 1776632381404,
       "text": "fix git for hypr + noctalia configs",
-      "completed": false,
+      "completed": true,
       "createdAt": "2026-04-19T20:59:41.404Z",
       "pageId": 0,
       "priority": "medium",
@@ -17,8 +26,8 @@
     }
   ],
   "current_page_id": 0,
-  "count": 1,
-  "completedCount": 0,
+  "count": 2,
+  "completedCount": 1,
   "showCompleted": true,
   "showBackground": true,
   "isExpanded": true,

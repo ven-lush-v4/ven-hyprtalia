@@ -25,7 +25,7 @@
         "showIconBackground": true,
         "sortByMostUsed": true,
         "terminalCommand": "kitty -e -d",
-        "viewMode": "list"
+        "viewMode": "grid"
     },
     "audio": {
         "mprisBlacklist": [
@@ -221,6 +221,18 @@
                         "mode": "region"
                     },
                     "id": "plugin:screenshot"
+                },
+                {
+                    "defaultSettings": {
+                        "activeAnimFile": "",
+                        "activeBorderFile": "",
+                        "activeShaderFile": "",
+                        "autoApply": true,
+                        "borderSize": 2,
+                        "isSystemActive": false,
+                        "overlayPath": "~/.cache/noctalia/HVE/overlay.conf"
+                    },
+                    "id": "plugin:hyprland-visual-editor"
                 }
             ],
             "right": [
@@ -729,7 +741,7 @@
         "overlayLayer": true
     },
     "plugins": {
-        "autoUpdate": false,
+        "autoUpdate": true,
         "notifyUpdates": true
     },
     "sessionMenu": {
