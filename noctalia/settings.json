@@ -544,24 +544,24 @@
         "groupContextMenuMode": "extended",
         "groupIndicatorStyle": "dots",
         "inactiveIndicators": true,
-        "indicatorColor": "secondary",
-        "indicatorOpacity": 0.76,
+        "indicatorColor": "primary",
+        "indicatorOpacity": 0.5,
         "indicatorThickness": 6,
         "launcherIcon": "",
         "launcherIconColor": "none",
-        "launcherPosition": "end",
-        "launcherUseDistroLogo": false,
+        "launcherPosition": "start",
+        "launcherUseDistroLogo": true,
         "monitors": [
         ],
         "onlySameOutput": true,
         "pinnedApps": [
         ],
-        "pinnedStatic": false,
-        "position": "right",
+        "pinnedStatic": true,
+        "position": "bottom",
         "showDockIndicator": true,
-        "showLauncherIcon": false,
+        "showLauncherIcon": true,
         "sitOnFrame": true,
-        "size": 1.5
+        "size": 1
     },
     "general": {
         "allowPanelsOnScreenWithoutBar": true,
@@ -808,7 +808,7 @@
                 "keybind": ""
             }
         ],
-        "showHeader": true,
+        "showHeader": false,
         "showKeybinds": true
     },
     "settingsVersion": 59,

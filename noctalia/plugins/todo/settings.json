@@ -1,21 +1,30 @@
 {
   "todos": [
     {
-      "id": 1777929313419,
-      "text": "remod dsi",
-      "completed": false,
-      "createdAt": "2026-05-04T21:15:13.419Z",
-      "pageId": 0,
-      "priority": "low",
-      "details": ""
-    },
-    {
       "id": 1776632381404,
       "text": "fix git for hypr + noctalia configs",
       "completed": true,
       "createdAt": "2026-04-19T20:59:41.404Z",
       "pageId": 0,
       "priority": "medium",
+      "details": ""
+    },
+    {
+      "id": 1777929313419,
+      "text": "remod dsi",
+      "completed": true,
+      "createdAt": "2026-05-04T21:15:13.419Z",
+      "pageId": 0,
+      "priority": "low",
+      "details": ""
+    },
+    {
+      "id": 1778019909291,
+      "text": "add themes + moar games to dsi",
+      "completed": true,
+      "createdAt": "2026-05-05T22:25:09.291Z",
+      "pageId": 0,
+      "priority": "low",
       "details": ""
     }
   ],
@@ -26,8 +35,8 @@
     }
   ],
   "current_page_id": 0,
-  "count": 2,
-  "completedCount": 1,
+  "count": 3,
+  "completedCount": 3,
   "showCompleted": true,
   "showBackground": true,
   "isExpanded": true,

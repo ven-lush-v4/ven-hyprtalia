@@ -5,5 +5,5 @@
   "showNotifications": true,
   "hideWhenEmpty": false,
   "showBadge": true,
-  "iconColor": "none"
+  "iconColor": "primary"
 }
